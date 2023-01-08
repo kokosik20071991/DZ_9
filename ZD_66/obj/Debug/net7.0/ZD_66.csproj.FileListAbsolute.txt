@@ -1,0 +1,15 @@
+D:\VS_C#\DZ_9\ZD_66\bin\Debug\net7.0\ZD_66.exe
+D:\VS_C#\DZ_9\ZD_66\bin\Debug\net7.0\ZD_66.deps.json
+D:\VS_C#\DZ_9\ZD_66\bin\Debug\net7.0\ZD_66.runtimeconfig.json
+D:\VS_C#\DZ_9\ZD_66\bin\Debug\net7.0\ZD_66.dll
+D:\VS_C#\DZ_9\ZD_66\bin\Debug\net7.0\ZD_66.pdb
+D:\VS_C#\DZ_9\ZD_66\obj\Debug\net7.0\ZD_66.csproj.AssemblyReference.cache
+D:\VS_C#\DZ_9\ZD_66\obj\Debug\net7.0\ZD_66.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_C#\DZ_9\ZD_66\obj\Debug\net7.0\ZD_66.AssemblyInfoInputs.cache
+D:\VS_C#\DZ_9\ZD_66\obj\Debug\net7.0\ZD_66.AssemblyInfo.cs
+D:\VS_C#\DZ_9\ZD_66\obj\Debug\net7.0\ZD_66.csproj.CoreCompileInputs.cache
+D:\VS_C#\DZ_9\ZD_66\obj\Debug\net7.0\ZD_66.dll
+D:\VS_C#\DZ_9\ZD_66\obj\Debug\net7.0\refint\ZD_66.dll
+D:\VS_C#\DZ_9\ZD_66\obj\Debug\net7.0\ZD_66.pdb
+D:\VS_C#\DZ_9\ZD_66\obj\Debug\net7.0\ZD_66.genruntimeconfig.cache
+D:\VS_C#\DZ_9\ZD_66\obj\Debug\net7.0\ref\ZD_66.dll
