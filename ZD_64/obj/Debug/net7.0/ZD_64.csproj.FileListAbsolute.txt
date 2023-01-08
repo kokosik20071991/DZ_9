@@ -1,0 +1,15 @@
+D:\VS_C#\DZ_9\ZD_64\bin\Debug\net7.0\ZD_64.exe
+D:\VS_C#\DZ_9\ZD_64\bin\Debug\net7.0\ZD_64.deps.json
+D:\VS_C#\DZ_9\ZD_64\bin\Debug\net7.0\ZD_64.runtimeconfig.json
+D:\VS_C#\DZ_9\ZD_64\bin\Debug\net7.0\ZD_64.dll
+D:\VS_C#\DZ_9\ZD_64\bin\Debug\net7.0\ZD_64.pdb
+D:\VS_C#\DZ_9\ZD_64\obj\Debug\net7.0\ZD_64.csproj.AssemblyReference.cache
+D:\VS_C#\DZ_9\ZD_64\obj\Debug\net7.0\ZD_64.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_C#\DZ_9\ZD_64\obj\Debug\net7.0\ZD_64.AssemblyInfoInputs.cache
+D:\VS_C#\DZ_9\ZD_64\obj\Debug\net7.0\ZD_64.AssemblyInfo.cs
+D:\VS_C#\DZ_9\ZD_64\obj\Debug\net7.0\ZD_64.csproj.CoreCompileInputs.cache
+D:\VS_C#\DZ_9\ZD_64\obj\Debug\net7.0\ZD_64.dll
+D:\VS_C#\DZ_9\ZD_64\obj\Debug\net7.0\refint\ZD_64.dll
+D:\VS_C#\DZ_9\ZD_64\obj\Debug\net7.0\ZD_64.pdb
+D:\VS_C#\DZ_9\ZD_64\obj\Debug\net7.0\ZD_64.genruntimeconfig.cache
+D:\VS_C#\DZ_9\ZD_64\obj\Debug\net7.0\ref\ZD_64.dll
